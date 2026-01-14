@@ -1,6 +1,10 @@
 # Windows 11 Cleanup
-It doesn't remove Solitaire or paint\n
-It sets the cmd font to something sane\n
-It completely blocks bing :)\n
-It removes ads and all that microsoft [censored]ware\n
-It disables copilot, teams, and xbox\n
+It doesn't remove Solitaire or paint
+
+It sets the cmd font to something sane
+
+It completely blocks bing :)
+
+It removes ads and all that microsoft [censored]ware
+
+It disables copilot, teams, and xbox
