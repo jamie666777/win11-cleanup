@@ -1,3 +1,5 @@
+#Requires -RunAsAdministrator
+
 $start = cscript.exe //nologo "start_message.vbs"
 if ($LASTEXITCODE -ne 0) { exit }
 
